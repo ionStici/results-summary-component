@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+button {
+  font: inherit;
+}
+
+body {
+  font-family: "Hanken Grotesk", sans-serif;
+  background-color: #fff;
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    background-color: #ecf2ff;
+  }
+
+  .main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+
+  .app {
+    display: flex;
+  }
+}
+
+@media only screen and (max-height: 550px) and (min-width: 768px) {
+  .main {
+    margin: 8px 0;
+  }
+}
