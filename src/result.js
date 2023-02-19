@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import "./result.css";
 
 export const Result = function (props) {
   return (
@@ -20,6 +19,6 @@ export const Result = function (props) {
 };
 
 Result.propTypes = {
-  score: PropTypes.string.isRequired,
+  score: PropTypes.number.isRequired,
   perc: PropTypes.string.isRequired,
 };

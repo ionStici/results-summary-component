@@ -1,6 +1,4 @@
 import React from "react";
-import PropTypes from "prop-types";
-import "./summary.css";
 
 export const SummaryItem = function (props) {
   return (
