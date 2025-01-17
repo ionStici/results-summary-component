@@ -11,8 +11,7 @@ export const Result = function (props) {
       </div>
       <p className="result__great">Great</p>
       <p className="result__p">
-        Your performance exceed {props.perc}% of the people conducting the test
-        here!
+        Your performance exceed {props.perc}% of the people conducting the test here!
       </p>
     </div>
   );

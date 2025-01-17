@@ -1,10 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-
 import "./index.css";
 import "./result.css";
 import "./summary.css";
-
 import { Result } from "./result";
 import { Summary } from "./summary";
 import data from "./data.json";

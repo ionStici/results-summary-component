@@ -1,6 +1,17 @@
 # Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
+> This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
+
+A fun little project from Frontend Mentor that displays your test results in a neat, purple-themed card. Built this while learning the ropes of React and CSS!
+
+**Tech Stack:** React (with class components), CSS for all that pretty styling, Created with create-react-app.
+
+**Features:** Fully responsive, Clean and modern UI with a nice purple gradient, nothing else.
+
+| [Live Demo Link](https://github.com/ionStici/results-summary-component) | [Frontend Mentor](https://www.frontendmentor.io/solutions/results-summary-component-so2M-pHih4) |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+
+![](./preview.png)
 
 <!-- ### Primary
 
